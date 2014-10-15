@@ -6,20 +6,35 @@
 	border: 1px solid black;
 }
 
-#bt1{
+#btleft{
 	background-color:red;
+	width:100px;
+	height: 100px;
+	float: left;
+	font-size: 100px;
+}
+
+#btright{
+	background-color:blue;
+	width:100px;
+	height: 100px;
+	float: right;
+	font-size: 100px
+}
+
+#btup{
+	background-color:green;
 	width:100px;
 	height: 100px;
 	float: left;
 }
 
-#bt2{
-	background-color:blue;
+#btdown{
+	background-color:yellow;
 	width:100px;
 	height: 100px;
 	float: right;
 }
-
 
 
 .areadejogo{
